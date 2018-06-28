@@ -1,0 +1,3 @@
+rootProject.name = 'libraries-poc'
+include 'core'
+
